@@ -1,4 +1,3 @@
-# hello-world
-Just another repository
+# Website Development Repository
 
-This repository is being used in a tutorial.
+This repository contains some webpages that I've made to learn web development.
