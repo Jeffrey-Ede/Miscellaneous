@@ -1,3 +1,3 @@
 # Website Development Repository
 
-This repository contains webpages that I'm making to learn web development.
+This repository contains some webpages that I've made to learn web development.
