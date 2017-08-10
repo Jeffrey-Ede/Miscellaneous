@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function changeSize() {
+    document.getElementById("mySelect").size = 4;
+}
+function changeBack() {
+    document.getElementById("mySelect").size = 1;
+}
+</script>
+</head>
+<body>
+
+<form>
+<select id="mySelect">
+  <option>Item 1</option>
+  <option>Item 2</option>
+  <option>Item 3</option>
+  <option>Item 4</option>
+</select>
+<input type="button" onclick="changeSize()" value="Size 4">
+<input type="button" onclick="changeBack()" value="Size 1">
+</form>
+
+</body>
+</html>
