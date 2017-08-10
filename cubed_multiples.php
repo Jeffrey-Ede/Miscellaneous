@@ -8,8 +8,11 @@
 		for($i=1; $i<10; $i++){
 			for($j=1; $j<10; $j++){
 				echo $val = pow($i*$j, 3);
+				if ($j<9)
+					echo " ";
+				else
+					echo "<br />";
 			}
-			echo "<br />";
 		}
 ?>
 
