@@ -1,3 +1,4 @@
+<!--Usw with read_cookies.php-->
 <?php
    // Cookies to store my name and age. They expire after 5 min
    setcookie("name", "Jeffrey Ede", time()+300, "/","", 0);
