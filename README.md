@@ -1,2 +1,2 @@
-# Games
-Fun little games that I've written
+# Teaching examples
+This repository contains some of the examples I've used to teach my sister and her boyfriend programming.
