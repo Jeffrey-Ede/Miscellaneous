@@ -7,7 +7,8 @@ A
 multiline
 comment
 =cut
-$x = 11;
+
+$x = 11;
 print "x = $x\n";
 print 'x = $x';
 print "\n\n";
