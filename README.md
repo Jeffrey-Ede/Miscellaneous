@@ -1,2 +1,2 @@
 # Teaching examples
-This repository contains some of the examples used to teach my sister and her boyfriend python. Some of the examples were worked through together. Others were posted here for them to look at.
+This repository contains some of the examples used to teach my sister and her boyfriend python.
