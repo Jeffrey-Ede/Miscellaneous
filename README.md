@@ -1,2 +1,3 @@
-# Teaching examples
-This repository contains some of the examples I've used to teach python.
+# Python Code
+
+This repository contains a bit of everything; stuff that doesn't belong elsewhere. It ranges from code examples I've written to teach python to advanced pieces of code I'm just playing around with.
